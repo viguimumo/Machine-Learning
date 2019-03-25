@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ac7ed098ba7c6f14dabc8f084aa64dc9
+timeCreated: 1516893422
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: the brooklyn bold
+  fontNames:
+  - the brooklyn bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
